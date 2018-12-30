@@ -8,7 +8,7 @@ const timelines = [];
  * @class Animator
  * @memberof PIXI.animate
  */
-class Animator {
+class Animatorsss {
 
     /**
      * The collection of timelines
